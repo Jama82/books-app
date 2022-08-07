@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Computer Programming",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Inside the machine",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Coders at work",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Design Patterns",
+      "completed": true
+    }
+  ]
+}
